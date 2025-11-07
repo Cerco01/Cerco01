@@ -1,0 +1,20 @@
+name: WakaTime Readme
+
+on:
+  workflow_dispatch: 
+  schedule:
+    # Se ejecuta cada día a las 00:00 UTC (ajusta si lo necesitas)
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Actualizar WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@v1
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          
+          COMMIT_BY_ME: "True"
+          COMMIT_MESSAGE: "🤖 Actualizar estadísticas de codificación de WakaTime"
