@@ -32,3 +32,7 @@ El repositorio **[Curso_MasterMind](https://github.com/Cerco01/Curso_MasterMind)
 > #### ✨ **Mira mi último avance:** [Entrega 13: Pokemon Snake](https://github.com/Cerco01/Curso_MasterMind/tree/master/Aprende%20a%20programar%20con%20Python/Primeros%20Programas%20Simples/13.%20Entrega%20Pokemon%20Snake)!
 
 Estoy buscando activamente una oportunidad para empezar a trabajar profesionalmente y seguir creciendo.
+
+---
+### 📈 Mi Actividad Reciente (Powered by WakaTime)
+---
