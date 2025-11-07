@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Axel, desarrollador muy junior con enfoque en Automatización y Diseño de Workflows. 💻
 
-<!--
-**Cerco01/Cerco01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi vida siempre ha estado ligada a ordenadores. Desde pequeño, mi dinámica favorita era la de **"trastear el portatil de mi padre"**: lo acababa rompiendo y siempre me las ingeniaba para tenerlo funcional antes de que regresara del trabajo. Esa adrenalina por hacer que los sistemas funcionen, y no solo eso, sino por **montar ordenadores a todo mi entorno**, me ha convertido en el técnico de confianza de mi familia y amigos.
 
-Here are some ideas to get you started:
+Ahora busco profesionalizar esta pasión, porque veo que las horas vuelan cuando estoy delante de una pantalla.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏎️ Intereses y Proyectos
+
+Además de mi foco en la programación, me apasiona el **Simracing** (puedes verme en Instagram como [@sim_cerco01](https://www.instagram.com/sim_cerco01/)). Esto me motiva a enfocar mi futuro en proyectos donde la automatización, el *workflow design* y la IA se crucen con la simulación o el rendimiento.
+
+Estoy terminando mi base en **Python** con @MastermindAcademy para luego dar el salto a proyectos de mayor escala.
+
+---
+
+### 🌟 Mis Principios de Desarrollo
+
+Actualmente, estoy obsesionado con aprender y desarrollar un método de trabajo **eficaz y con calidad de código**. Mi metodología se basa en la programación defensiva y la arquitectura limpia, aplicando:
+
+| Foco | Herramientas & Conceptos | Impacto en el Código |
+| :--- | :--- | :--- |
+| **Arquitectura (POO)** | Clases Contenedoras (`GameConstants`, `PokemonLibrary`), Separación de Responsabilidades (SoC). | Código modular, fácil de leer y escalar. |
+| **Validación Funcional** | **Pytest** | Suites de pruebas unitarias/integración para garantizar que no haya regresiones. |
+| **Calidad y Tipado** | **Ruff** (Linter/Formatter) y **MyPy** (Validación estricta de tipos). | Cero *warnings* de estilo y código seguro en el uso de datos. |
+| **Flujo de Trabajo** | `agents.md` & `CONTRIBUTING.md` | Proceso riguroso de Planificación → Implementación → Testing. |
+
+---
+
+### 📚 Proyecto Destacado: Portafolio MasterMind
+
+El repositorio **[Curso_MasterMind](https://github.com/Cerco01/Curso_MasterMind)** es mi portafolio activo. Muestra cómo aplico todas estas prácticas.
+
+> #### ✨ **Mira mi último avance:** [Entrega 13: Pokemon Snake](https://github.com/Cerco01/Curso_MasterMind/tree/master/Aprende%20a%20programar%20con%20Python/Primeros%20Programas%20Simples/13.%20Entrega%20Pokemon%20Snake)!
+
+Estoy buscando activamente una oportunidad para empezar a trabajar profesionalmente y seguir creciendo.
