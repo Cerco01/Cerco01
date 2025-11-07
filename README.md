@@ -36,6 +36,6 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ---
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
-waka
+'waka'
 
 ---
