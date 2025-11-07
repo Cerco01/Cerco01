@@ -7,14 +7,15 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  update-readme:
-    name: Actualizar WakaTime Stats
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@v1
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          
-          COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE: "🤖 Actualizar estadísticas de codificación de WakaTime"
+      update-readme:
+        runs-on: ubuntu-latest
+        steps:
+          - uses: anmol098/waka-readme-stats@latest
+            with:
+              WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
+              # Corrección: Quita el Secret y pon el nombre del marcador que usarás en el README
+              WAKA_SECTION_NAME: 'waka' 
+              # (Opcional) Si la Action necesita un token de GitHub para escribir,
+              # se suele pasar así. Esta Action lo hace automáticamente,
+              # pero es bueno saberlo.
+              GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # No es necesario en esta Action, pero es buena práctica.
