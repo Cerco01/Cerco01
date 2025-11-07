@@ -10,7 +10,7 @@ jobs:
       update-readme:
         runs-on: ubuntu-latest
         steps:
-          - uses: anmol098/waka-readme-stats@latest
+          - uses: anmol098/waka-readme-stats@v4
             with:
               WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
               # Corrección: Quita el Secret y pon el nombre del marcador que usarás en el README
