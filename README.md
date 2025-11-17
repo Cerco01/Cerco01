@@ -37,13 +37,13 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-200-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 180 Bytes Used in GitHub's Storage 
+> 📦 181 Bytes Used in GitHub's Storage 
  > 
 > 🏆 48 Contributions in the Year 2025
  > 
@@ -80,9 +80,9 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   5 hrs 8 mins        █████████████████████░░░░   84.90 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Python                   5 hrs 8 mins        █████████████████████░░░░   84.87 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 textmate                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 GitIgnore file           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
@@ -91,9 +91,9 @@ PyCharm                  6 hrs 3 mins        ███████████�
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-cerko                    2 hrs 39 mins       ███████████░░░░░░░░░░░░░░   43.72 % 
-MasterMind               1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   31.07 % 
-MCP Server               1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+cerko                    2 hrs 39 mins       ███████████░░░░░░░░░░░░░░   43.70 % 
+MasterMind               1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   31.06 % 
+MCP Server               1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
 
 💻 Operating System: 
 Windows                  6 hrs 3 mins        █████████████████████████   100.00 % 
@@ -112,7 +112,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 18:43:58 UTC
+ Last Updated on 17/11/2025 18:48:05 UTC
 <!--END_SECTION:waka-->
 
 ---
