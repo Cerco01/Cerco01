@@ -39,11 +39,11 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-178-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 585 Bytes Used in GitHub's Storage 
+> 📦 586 Bytes Used in GitHub's Storage 
  > 
 > 🏆 48 Contributions in the Year 2025
  > 
@@ -112,7 +112,7 @@ Python                   3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2025 18:44:13 UTC
+ Last Updated on 22/11/2025 18:44:26 UTC
 <!--END_SECTION:waka-->
 
 ---
