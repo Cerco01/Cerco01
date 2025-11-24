@@ -37,7 +37,7 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -80,8 +80,8 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   7 hrs 3 mins        █████████████████░░░░░░░░   68.66 % 
-Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Python                   7 hrs 3 mins        █████████████████░░░░░░░░   68.68 % 
+Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 Batchfile                37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
@@ -112,7 +112,7 @@ Python                   3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2025 18:44:45 UTC
+ Last Updated on 24/11/2025 18:49:59 UTC
 <!--END_SECTION:waka-->
 
 ---
