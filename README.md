@@ -80,20 +80,16 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████░░░░░░░░░░░░   51.02 % 
-Env File                 0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-YAML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MCP Server               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +105,7 @@ Python                   3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2025 18:52:17 UTC
+ Last Updated on 19/12/2025 18:50:06 UTC
 <!--END_SECTION:waka-->
 
 ---
