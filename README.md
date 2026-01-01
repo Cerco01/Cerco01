@@ -45,7 +45,7 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 
 > 📦 61.0 kB Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,7 +105,7 @@ Python                   3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 18:49:13 UTC
+ Last Updated on 01/01/2026 18:49:51 UTC
 <!--END_SECTION:waka-->
 
 ---
