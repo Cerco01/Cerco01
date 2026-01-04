@@ -53,6 +53,45 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                27 commits          █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+🌃 Evening                58 commits          ███████████░░░░░░░░░░░░░░   45.31 % 
+🌙 Night                  43 commits          ████████░░░░░░░░░░░░░░░░░   33.59 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Tuesday                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Wednesday                40 commits          ████████░░░░░░░░░░░░░░░░░   31.25 % 
+Thursday                 33 commits          ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+Friday                   34 commits          ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Sunday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -66,7 +105,7 @@ Python                   3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:48:13 UTC
+ Last Updated on 04/01/2026 18:48:02 UTC
 <!--END_SECTION:waka-->
 
 ---
