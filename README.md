@@ -37,7 +37,7 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -80,22 +80,22 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   5 hrs 2 mins        █████████████████████████   99.88 % 
+Python                   5 hrs 9 mins        █████████████████████████   99.88 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Env File                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 2 mins        █████████████████████████   100.00 % 
+PyCharm                  5 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MasterMind               4 hrs 55 mins       ████████████████████████░   97.74 % 
-Aprende a programar con P5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-MCP Server               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+MasterMind               5 hrs 3 mins        ████████████████████████░   97.79 % 
+Aprende a programar con P5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+MCP Server               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Windows                  5 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +111,7 @@ Python                   3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2026 18:48:56 UTC
+ Last Updated on 11/01/2026 18:48:30 UTC
 <!--END_SECTION:waka-->
 
 ---
