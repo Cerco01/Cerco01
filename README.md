@@ -37,7 +37,7 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -80,22 +80,22 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   13 hrs 14 mins      █████████████████████████   99.95 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   17 hrs 38 mins      █████████████████████████   99.97 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Env File                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  13 hrs 14 mins      █████████████████████████   100.00 % 
+PyCharm                  17 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MasterMind               13 hrs 7 mins       █████████████████████████   99.14 % 
-Aprende a programar con P5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-MCP Server               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+MasterMind               17 hrs 32 mins      █████████████████████████   99.35 % 
+Aprende a programar con P5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+MCP Server               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  13 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +111,7 @@ Python                   3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2026 18:54:03 UTC
+ Last Updated on 13/01/2026 18:52:42 UTC
 <!--END_SECTION:waka-->
 
 ---
