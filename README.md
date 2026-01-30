@@ -37,15 +37,15 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 76.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,25 +80,23 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   7 hrs 15 mins       ████████████████████████░   97.31 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Python                   7 hrs 15 mins       █████████████████████████   98.94 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 20 mins       █████████████████████████   98.36 % 
-Antigravity              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+PyCharm                  7 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MasterMind               6 hrs 56 mins       ███████████████████████░░   93.04 % 
-cerko                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-MCP Server               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-GO_AUTO_CROM_GUI_2025    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Primeros Programas Simple1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+MasterMind               6 hrs 56 mins       ████████████████████████░   94.60 % 
+cerko                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+GO_AUTO_CROM_GUI_2025    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Primeros Programas Simple1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Windows                  7 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +112,7 @@ Python                   5 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2026 19:07:29 UTC
+ Last Updated on 30/01/2026 19:05:52 UTC
 <!--END_SECTION:waka-->
 
 ---
