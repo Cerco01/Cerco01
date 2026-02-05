@@ -37,9 +37,9 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,23 +80,20 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   15 hrs 51 mins      █████████████████████████   100.00 % 
-CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   17 hrs 13 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 55 mins      ██████████████████████░░░   87.81 % 
-PyCharm                  1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+VS Code                  16 hrs 57 mins      █████████████████████████   98.44 % 
+PyCharm                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🐱‍💻 Projects: 
-python-lists-loops-progra9 hrs 32 mins       ███████████████░░░░░░░░░░   60.19 % 
-python-beginner-programmi4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-MasterMind               1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Primeros Programas Simple1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+python-lists-loops-progra12 hrs 34 mins      ██████████████████░░░░░░░   73.01 % 
+python-beginner-programmi4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+MasterMind               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-Linux                    13 hrs 55 mins      ██████████████████████░░░   87.81 % 
-Windows                  1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Linux                    16 hrs 57 mins      █████████████████████████   98.44 % 
+Windows                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +109,7 @@ Python                   5 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2026 19:12:15 UTC
+ Last Updated on 05/02/2026 19:10:30 UTC
 <!--END_SECTION:waka-->
 
 ---
