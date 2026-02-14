@@ -37,7 +37,7 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -45,11 +45,11 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 
 > 📦 76.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -80,24 +80,21 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   11 hrs 7 mins       █████████████████████████   100.00 % 
+Python                   9 hrs 36 mins       █████████████████████████   100.00 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 5 mins       █████████████████████████   99.72 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+VS Code                  9 hrs 34 mins       █████████████████████████   99.68 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-master-python-programming11 hrs 2 mins       █████████████████████████   99.36 % 
-python-lists-loops-progra2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-test                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-MasterMind               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+master-python-programming9 hrs 34 mins       █████████████████████████   99.68 % 
+test                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 5 mins       █████████████████████████   99.72 % 
-Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Linux                    9 hrs 34 mins       █████████████████████████   99.68 % 
+Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +110,7 @@ Python                   5 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2026 19:12:53 UTC
+ Last Updated on 14/02/2026 18:57:54 UTC
 <!--END_SECTION:waka-->
 
 ---
