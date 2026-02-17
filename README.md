@@ -39,7 +39,7 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2041%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,22 +80,19 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   10 hrs 10 mins      █████████████████████████   100.00 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   6 hrs 8 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 8 mins       █████████████████████████   99.70 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+VS Code                  6 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-master-python-programming10 hrs 8 mins       █████████████████████████   99.70 % 
-test                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+master-python-programming6 hrs 8 mins        █████████████████████████   99.98 % 
+python-beginner-programmi0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    8 hrs 10 mins       ████████████████████░░░░░   80.34 % 
-Windows                  1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Linux                    4 hrs 5 mins        █████████████████░░░░░░░░   66.75 % 
+Windows                  2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.23 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +108,7 @@ Python                   5 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2026 19:06:47 UTC
+ Last Updated on 17/02/2026 19:26:40 UTC
 <!--END_SECTION:waka-->
 
 ---
