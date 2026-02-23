@@ -37,7 +37,7 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -45,11 +45,11 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 
 > 📦 76.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 7 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -97,7 +97,8 @@ Mac                      0 secs              ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             █████████████████████████   100.00 % 
+Python                   6 repos             █████████████████████░░░░   85.71 % 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
@@ -107,7 +108,7 @@ Python                   5 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2026 18:58:10 UTC
+ Last Updated on 23/02/2026 19:37:03 UTC
 <!--END_SECTION:waka-->
 
 ---
