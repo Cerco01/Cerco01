@@ -37,7 +37,7 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -80,21 +80,21 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   1 hr 58 mins        ██████████████████░░░░░░░   73.99 % 
-YAML                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   3 hrs 31 mins       █████████████████████░░░░   83.56 % 
+YAML                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-monthly-sales-analyzer-pr1 hr 43 mins        ████████████████░░░░░░░░░   65.10 % 
-4GeeksAcademy            41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
-python-lists-loops-progra14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+monthly-sales-analyzer-pr3 hrs 16 mins       ███████████████████░░░░░░   77.94 % 
+4GeeksAcademy            41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+python-lists-loops-progra14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 💻 Operating System: 
-Linux                    2 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +111,7 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2026 19:31:16 UTC
+ Last Updated on 26/02/2026 19:13:10 UTC
 <!--END_SECTION:waka-->
 
 ---
