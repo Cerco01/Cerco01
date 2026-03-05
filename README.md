@@ -37,7 +37,7 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,11 +45,11 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 
 > 📦 76.3 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2026
+> 🏆 9 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -80,23 +80,24 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   7 hrs 19 mins       ████████████████████████░   97.32 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Python                   10 hrs 17 mins      █████████████████████████   98.07 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-numpy-100                4 hrs 23 mins       ███████████████░░░░░░░░░░   58.29 % 
-monthly-sales-analyzer-pr2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.44 % 
-cerko                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-MCP Server               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-master-python-programming5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+numpy-100                8 hrs 41 mins       █████████████████████░░░░   82.69 % 
+monthly-sales-analyzer-pr49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+cerko                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+python-beginner-programmi13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+MCP Server               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 💻 Operating System: 
-Linux                    6 hrs 50 mins       ███████████████████████░░   90.84 % 
-Windows                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Linux                    9 hrs 35 mins       ███████████████████████░░   91.27 % 
+Windows                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Mac                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +114,7 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2026 19:10:18 UTC
+ Last Updated on 05/03/2026 19:39:44 UTC
 <!--END_SECTION:waka-->
 
 ---
