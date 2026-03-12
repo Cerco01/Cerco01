@@ -37,9 +37,9 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2041%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,23 +80,19 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   11 hrs 57 mins      █████████████████████████   99.53 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   10 hrs 23 mins      █████████████████████████   99.47 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-VS Code                  12 hrs              █████████████████████████   100.00 % 
+VS Code                  10 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pandas_exercises         4 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
-numpy-100                4 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.42 % 
-master-python-programming3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-python-beginner-programmi13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+master-python-programming5 hrs 58 mins       ██████████████░░░░░░░░░░░   57.21 % 
+pandas_exercises         4 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.79 % 
 
 💻 Operating System: 
-Linux                    9 hrs 46 mins       ████████████████████░░░░░   81.43 % 
-Windows                  2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Mac                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Linux                    5 hrs 38 mins       ██████████████░░░░░░░░░░░   54.02 % 
+Windows                  4 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.98 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +109,7 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2026 19:13:49 UTC
+ Last Updated on 12/03/2026 19:14:34 UTC
 <!--END_SECTION:waka-->
 
 ---
