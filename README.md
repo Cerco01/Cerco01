@@ -37,7 +37,7 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -80,19 +80,19 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   10 hrs 23 mins      █████████████████████████   99.47 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Python                   7 hrs 18 mins       █████████████████████████   99.25 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  7 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-master-python-programming5 hrs 58 mins       ██████████████░░░░░░░░░░░   57.21 % 
-pandas_exercises         4 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.79 % 
+master-python-programming5 hrs 58 mins       ████████████████████░░░░░   81.17 % 
+pandas_exercises         1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
 
 💻 Operating System: 
-Linux                    5 hrs 38 mins       ██████████████░░░░░░░░░░░   54.02 % 
-Windows                  4 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.98 % 
+Windows                  4 hrs 48 mins       ████████████████░░░░░░░░░   65.23 % 
+Linux                    2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.77 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +109,7 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2026 19:14:34 UTC
+ Last Updated on 13/03/2026 19:05:32 UTC
 <!--END_SECTION:waka-->
 
 ---
