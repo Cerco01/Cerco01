@@ -37,7 +37,7 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -80,16 +80,19 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   3 hrs 3 mins        █████████████████████████   100.00 % 
+Python                   2 hrs 45 mins       ████████████████████████░   96.87 % 
+CSV                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-master-python-programming3 hrs 3 mins        █████████████████████████   100.00 % 
+data-clean-up-pandas-for-1 hr 55 mins        █████████████████░░░░░░░░   67.73 % 
+master-python-programming55 mins             ████████░░░░░░░░░░░░░░░░░   32.27 % 
 
 💻 Operating System: 
-Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +109,7 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2026 19:28:04 UTC
+ Last Updated on 19/03/2026 19:25:57 UTC
 <!--END_SECTION:waka-->
 
 ---
