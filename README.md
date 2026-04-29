@@ -37,7 +37,7 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,11 +45,11 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 
 > 📦 76.4 kB Used in GitHub's Storage 
  > 
-> 🏆 29 Contributions in the Year 2026
+> 🏆 30 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
@@ -80,25 +80,25 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 12 hrs 1 min        ███████████░░░░░░░░░░░░░░   45.44 % 
-Python                   8 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.42 % 
-Other                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-PowerShell               1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-CSV                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Markdown                 11 hrs 7 mins       █████████████░░░░░░░░░░░░   50.05 % 
+Python                   6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+PowerShell               1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+CSV                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 35 mins      ███████████████████░░░░░░   77.76 % 
-Unknown Editor           5 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+VS Code                  17 hrs 45 mins      ████████████████████░░░░░   79.92 % 
+Unknown Editor           4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
 
 🐱‍💻 Projects: 
-cerko                    15 hrs 22 mins      ███████████████░░░░░░░░░░   58.10 % 
-machine-learning-python-t6 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-algorithm-optimization-pr3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-cowork                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-data-preprocessing-projec10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+cerko                    14 hrs 11 mins      ████████████████░░░░░░░░░   63.88 % 
+machine-learning-python-t6 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.82 % 
+cowork                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+data-preprocessing-projec10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+engram-monitor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  26 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,7 +116,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2026 20:01:02 UTC
+ Last Updated on 29/04/2026 19:59:32 UTC
 <!--END_SECTION:waka-->
 
 ---
