@@ -37,15 +37,15 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 79.9 kB Used in GitHub's Storage 
+> 📦 81.1 kB Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2026
+> 🏆 59 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,21 +56,21 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-🌆 Daytime                32 commits          █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-🌃 Evening                84 commits          █████████████░░░░░░░░░░░░   51.22 % 
-🌙 Night                  47 commits          ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+🌆 Daytime                33 commits          █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+🌃 Evening                84 commits          █████████████░░░░░░░░░░░░   50.60 % 
+🌙 Night                  47 commits          ███████░░░░░░░░░░░░░░░░░░   28.31 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Wednesday                58 commits          █████████░░░░░░░░░░░░░░░░   35.37 % 
-Thursday                 35 commits          █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Friday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Monday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Wednesday                58 commits          █████████░░░░░░░░░░░░░░░░   34.94 % 
+Thursday                 35 commits          █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Friday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 ```
 
 
@@ -116,7 +116,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 19:43:59 UTC
+ Last Updated on 18/05/2026 20:10:15 UTC
 <!--END_SECTION:waka-->
 
 ---
