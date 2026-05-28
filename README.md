@@ -37,13 +37,11 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2046%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 99.1 kB Used in GitHub's Storage 
+> 📦 99.2 kB Used in GitHub's Storage 
  > 
 > 🏆 73 Contributions in the Year 2026
  > 
@@ -53,54 +51,6 @@ Estoy buscando activamente una oportunidad para empezar a trabajar profesionalme
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-🌆 Daytime                42 commits          ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-🌃 Evening                84 commits          ████████████░░░░░░░░░░░░░   48.00 % 
-🌙 Night                  47 commits          ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Wednesday                61 commits          █████████░░░░░░░░░░░░░░░░   34.86 % 
-Thursday                 35 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Friday                   37 commits          █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-Python                   8 hrs 38 mins       ██████████████████████░░░   87.05 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 55 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-21-alternative-time-serie5 hrs 30 mins       ██████████████░░░░░░░░░░░   55.57 % 
-22-image-classifier-4geek3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.84 % 
-17-regularized-linear-reg1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-17-regularized-linear-reg8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-18-naive-bayes-4geeks-pro4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-
-💻 Operating System: 
-Windows                  9 hrs 51 mins       █████████████████████████   99.31 % 
-Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -117,7 +67,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 20:32:57 UTC
+ Last Updated on 28/05/2026 20:42:02 UTC
 <!--END_SECTION:waka-->
 
 ---
