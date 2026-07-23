@@ -1,37 +1,41 @@
-# 👋 ¡Hola! Soy Axel, desarrollador muy junior con enfoque en Automatización y Diseño de Workflows. 💻
+# 👋 ¡Hola! Soy Axel — Data Scientist y automatización con IA 💻
 
-Mi vida siempre ha estado ligada a ordenadores. Desde pequeño, mi dinámica favorita era la de **"trastear el portatil de mi padre"**: lo acababa rompiendo y siempre me las ingeniaba para tenerlo funcional antes de que regresara del trabajo. Esa adrenalina por hacer que los sistemas funcionen, y no solo eso, sino por **montar ordenadores a todo mi entorno**, me ha convertido en el técnico de confianza de mi familia y amigos.
+Mi vida siempre ha estado ligada a ordenadores. Desde pequeño, mi dinámica favorita era **"trastear el portátil de mi padre"**: lo acababa rompiendo y siempre me las ingeniaba para tenerlo funcional antes de que regresara del trabajo. Esa adrenalina por hacer que los sistemas funcionen, y no solo eso, sino por **montar ordenadores a todo mi entorno**, me ha convertido en el técnico de confianza de mi familia y amigos.
 
-Ahora busco profesionalizar esta pasión, porque veo que las horas vuelan cuando estoy delante de una pantalla.
-
-### 🏎️ Intereses y Proyectos
-
-Además de mi foco en la programación, me apasiona el **Simracing** (puedes verme en Instagram como [@sim_cerco01](https://www.instagram.com/sim_cerco01/)). Esto me motiva a enfocar mi futuro en proyectos donde la automatización, el *workflow design* y la IA se crucen con la simulación o el rendimiento.
-
-Estoy terminando mi base en **Python** con @MastermindAcademy para luego dar el salto a proyectos de mayor escala.
+Ahora he dado el salto a profesionalizar esta pasión: **Data Science, Machine Learning e Inteligencia Artificial aplicada**. Las horas vuelan cuando estoy delante de una pantalla.
 
 ---
 
-### 🌟 Mis Principios de Desarrollo
+### 🧠 Stack y método de trabajo
 
-Actualmente, estoy obsesionado con aprender y desarrollar un método de trabajo **eficaz y con calidad de código**. Mi metodología se basa en la programación defensiva y la arquitectura limpia, aplicando:
+Mi día a día gira en torno a **Python, Scikit-learn, TensorFlow, PyTorch, FastAPI y Streamlit**, combinados con herramientas del ecosistema de agentes como **OpenCode, Gentle AI y MCPs**. Utilizo **Engram** como memoria persistente y organizo el trabajo con **Kanban** y documentación estructurada en **Notion**.
 
-| Foco | Herramientas & Conceptos | Impacto en el Código |
+Aplico metodologías que me ayudan a mantener el control del código y del proceso:
+
+| Foco | Herramientas y conceptos | Impacto |
 | :--- | :--- | :--- |
-| **Arquitectura (POO)** | Clases Contenedoras (`GameConstants`, `PokemonLibrary`), Separación de Responsabilidades (SoC). | Código modular, fácil de leer y escalar. |
-| **Validación Funcional** | **Pytest** | Suites de pruebas unitarias/integración para garantizar que no haya regresiones. |
-| **Calidad y Tipado** | **Ruff** (Linter/Formatter) y **MyPy** (Validación estricta de tipos). | Cero *warnings* de estilo y código seguro en el uso de datos. |
-| **Flujo de Trabajo** | `agents.md` & `CONTRIBUTING.md` | Proceso riguroso de Planificación → Implementación → Testing. |
+| **Especificación y diseño** | SDD (Spec-Driven Development) | De la idea al código con trazabilidad y sin perder requisitos. |
+| **Verificación** | TDD y **Pytest** | Suites de pruebas unitarias y de integración. |
+| **Calidad de código** | **Ruff**, **MyPy**, SOLID y Clean Code | Código limpio, tipado y sin warnings. |
+| **Arquitectura** | POO, separación de responsabilidades | Modular y fácil de mantener. |
 
 ---
 
-### 📚 Proyecto Destacado: Portafolio MasterMind
+### 📚 Proyectos destacados
 
-El repositorio **[Curso_MasterMind](https://github.com/Cerco01/Curso_MasterMind)** es mi portafolio activo. Muestra cómo aplico todas estas prácticas.
+#### 🩺 [MedImage Diagnosis](https://github.com/Trimboli10/proyecto-final-4geeks)
+Proyecto final colaborativo de Data Science. Clasificación de imágenes médicas para pulmones, cerebro, hígado, retina y riñón con **FastAPI, React, TensorFlow y PyTorch**. Desarrollé los modelos de retinopatía diabética y de lesiones renales en CT.
 
-> #### ✨ **Mira mi último avance:** [Entrega 13: Pokemon Snake](https://github.com/Cerco01/Curso_MasterMind/tree/master/Aprende%20a%20programar%20con%20Python/Primeros%20Programas%20Simples/13.%20Entrega%20Pokemon%20Snake)!
+#### 🐍 [Curso MasterMind — Pokémon Snake](https://github.com/Cerco01/Curso_MasterMind)
+Mi portafolio de aprendizaje en Python. El proyecto principal es un juego de terminal con POO, gestión de estado, mapas, combates por turnos y tests con Pytest.
 
-Estoy buscando activamente una oportunidad para empezar a trabajar profesionalmente y seguir creciendo.
+---
+
+### 🏎️ Intereses
+
+Me apasiona el **Simracing** (puedes verme en Instagram como [@sim_cerco01](https://www.instagram.com/sim_cerco01/)). Me motiva enfocar mi futuro en proyectos donde la automatización, el *workflow design* y la IA se crucen con la simulación o el rendimiento.
+
+Estoy abierto a oportunidades donde aplicar **Data Science e IA para generar impacto real en procesos y negocio**.
 
 ---
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
