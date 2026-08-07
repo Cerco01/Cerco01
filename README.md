@@ -41,10 +41,6 @@ Estoy abierto a oportunidades donde aplicar **Data Science e IA para generar imp
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%203%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -59,51 +55,6 @@ Estoy abierto a oportunidades donde aplicar **Data Science e IA para generar imp
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-🌆 Daytime                61 commits          ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-🌃 Evening                101 commits         ████████████░░░░░░░░░░░░░   47.64 % 
-🌙 Night                  48 commits          ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Tuesday                  22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Wednesday                70 commits          ████████░░░░░░░░░░░░░░░░░   33.02 % 
-Thursday                 36 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Friday                   46 commits          █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-Saturday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Sunday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -120,7 +71,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:03:15 UTC
+ Last Updated on 07/08/2026 00:22:10 UTC
 <!--END_SECTION:waka-->
 
 ---
