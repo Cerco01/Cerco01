@@ -86,46 +86,47 @@ Sunday                   15 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   3 hrs 24 mins       █████████████░░░░░░░░░░░░   53.68 % 
-JSON                     1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-Markdown                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Python                   4 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.29 % 
+Text                     2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+JSON                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Markdown                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-Opencode Cli             4 hrs 50 mins       ███████████████████░░░░░░   76.39 % 
-VS Code                  1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+Opencode Cli             7 hrs 49 mins       ████████████████████░░░░░   79.66 % 
+VS Code                  1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
 
 🐱‍💻 Projects: 
-technical-interview-coach6 hrs 9 mins        ████████████████████████░   97.10 % 
-Curriculum               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+technical-interview-coach9 hrs 38 mins       █████████████████████████   98.12 % 
+Curriculum               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Mac                      6 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 18 mins (99.46%)
+⏱ AI Coding Time: 9 hrs 46 mins (99.64%)
 
-✍️ 4,865 lines written by AI, 13 lines written by hand (99.73% AI-written)
+✍️ 5,709 lines written by AI, 13 lines written by hand (99.77% AI-written)
 
-🔤 5,210,716 Input Tokens, 601,622 Output Tokens
+🔤 8,024,660 Input Tokens, 756,958 Output Tokens
 
-💵 $137.93 Estimated AI Cost This Week
+💵 $184.77 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 89 AI Prompts
+🧠 66 AI Sessions, 114 AI Prompts
 
-GPT                      7,809 lines         █████████████████████████   100.00 % 
+GPT                      8,655 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.73% of written lines came from AI
-📄 Detailed Prompter — average 1,351 characters per prompt
+🤖 AI-Driven — 99.77% of written lines came from AI
+📄 Detailed Prompter — average 1,239 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -144,7 +145,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 18:53:36 UTC
+ Last Updated on 17/08/2026 19:07:10 UTC
 <!--END_SECTION:waka-->
 
 ---
