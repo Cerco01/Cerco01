@@ -41,9 +41,9 @@ Estoy abierto a oportunidades donde aplicar **Data Science e IA para generar imp
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-225%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-226%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -51,11 +51,11 @@ Estoy abierto a oportunidades donde aplicar **Data Science e IA para generar imp
 
 > 📦 114.3 kB Used in GitHub's Storage 
  > 
-> 🏆 123 Contributions in the Year 2026
+> 🏆 124 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
@@ -86,45 +86,46 @@ Sunday                   15 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   1 hr 22 mins        ████████████████████░░░░░   81.43 % 
-JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Python                   1 hr 27 mins        ████████████████░░░░░░░░░   63.38 % 
+Markdown                 37 mins             ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-Opencode Cli             1 hr 3 mins         ████████████████░░░░░░░░░   62.86 % 
-VS Code                  37 mins             █████████░░░░░░░░░░░░░░░░   37.14 % 
+Opencode Cli             1 hr 9 mins         █████████████░░░░░░░░░░░░   50.29 % 
+VS Code                  1 hr 8 mins         ████████████░░░░░░░░░░░░░   49.71 % 
 
 🐱‍💻 Projects: 
-technical-interview-coach1 hr 30 mins        ██████████████████████░░░   89.45 % 
-Terminal                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+technical-interview-coach2 hrs 1 min         ██████████████████████░░░   88.61 % 
+Terminal                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+eda-data-processing      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 💻 Operating System: 
-Windows                  1 hr 35 mins        ████████████████████████░   94.57 % 
-Mac                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Windows                  2 hrs 11 mins       ████████████████████████░   96.02 % 
+Mac                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (84.25%)
+⏱ AI Coding Time: 1 hr 57 mins (85.34%)
 
-✍️ 42 lines written by AI, 26 lines written by hand (61.76% AI-written)
+✍️ 115 lines written by AI, 26 lines written by hand (81.56% AI-written)
 
-🔤 917,681 Input Tokens, 46,999 Output Tokens
+🔤 1,242,642 Input Tokens, 63,713 Output Tokens
 
-💵 $5.01 Estimated AI Cost This Week
+💵 $13.84 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 57 AI Prompts
+🧠 14 AI Sessions, 73 AI Prompts
 
-GPT                      42 lines            █████████████████████████   100.00 % 
+GPT                      115 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.76% of written lines came from AI
-📝 Concise Prompter — average 376 characters per prompt
+🤖 AI-Driven — 81.56% of written lines came from AI
+📝 Concise Prompter — average 461 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 40.85% of changed lines were hand-edited
+🚀 High AI Trust — 25.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -143,7 +144,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:12:00 UTC
+ Last Updated on 02/09/2026 21:11:41 UTC
 <!--END_SECTION:waka-->
 
 ---
