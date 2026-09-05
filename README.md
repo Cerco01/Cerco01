@@ -41,9 +41,9 @@ Estoy abierto a oportunidades donde aplicar **Data Science e IA para generar imp
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-229%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -86,50 +86,50 @@ Sunday                   15 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   7 hrs 5 mins        █████████████████░░░░░░░░   68.84 % 
-JavaScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Python                   8 hrs 59 mins       ██████████████████░░░░░░░   73.68 % 
+JavaScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 4 mins        █████████████████░░░░░░░░   68.70 % 
-Opencode Cli             3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.30 % 
+VS Code                  8 hrs 18 mins       █████████████████░░░░░░░░   68.12 % 
+Opencode Cli             3 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.88 % 
 
 🐱‍💻 Projects: 
-retos-programacion-2023-a3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.54 % 
-technical-interview-coach3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.29 % 
-retos-programacion-2023  2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-cowork                   1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-eda-data-processing      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+retos-programacion-2023-a5 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.20 % 
+technical-interview-coach3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+retos-programacion-2023  2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+cowork                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+eda-data-processing      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 💻 Operating System: 
-Windows                  6 hrs 57 mins       █████████████████░░░░░░░░   67.57 % 
-Mac                      3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Windows                  6 hrs 57 mins       ██████████████░░░░░░░░░░░   57.05 % 
+Mac                      5 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 25 mins (62.44%)
+⏱ AI Coding Time: 7 hrs 21 mins (60.32%)
 
-✍️ 996 lines written by AI, 339 lines written by hand (74.61% AI-written)
+✍️ 996 lines written by AI, 409 lines written by hand (70.89% AI-written)
 
-🔤 3,183,310 Input Tokens, 238,538 Output Tokens
+🔤 3,589,848 Input Tokens, 255,557 Output Tokens
 
-💵 $52.66 Estimated AI Cost This Week
+💵 $52.96 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 171 AI Prompts
+🧠 31 AI Sessions, 203 AI Prompts
 
 GPT                      996 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.61% of written lines came from AI
-📝 Concise Prompter — average 401 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 28.91% of changed lines were hand-edited
+🤖 AI-Driven — 70.89% of written lines came from AI
+📝 Concise Prompter — average 371 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 32.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -148,7 +148,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 20:54:39 UTC
+ Last Updated on 05/09/2026 20:32:20 UTC
 <!--END_SECTION:waka-->
 
 ---
