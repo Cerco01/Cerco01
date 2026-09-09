@@ -86,51 +86,50 @@ Sunday                   15 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   9 hrs 56 mins       ███████████████████░░░░░░   77.21 % 
-JavaScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Python                   9 hrs 12 mins       ██████████████████████░░░   89.13 % 
+Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 14 mins       ██████████████████░░░░░░░   71.76 % 
-Opencode Cli             3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-Hermes                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+VS Code                  7 hrs 49 mins       ███████████████████░░░░░░   75.82 % 
+Opencode Cli             2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+Hermes                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🐱‍💻 Projects: 
-retos-programacion-2023-a5 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.13 % 
-retos-programacion-2023  4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
-technical-interview-coach1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-cowork                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-eda-data-processing      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+retos-programacion-2023-a5 hrs 17 mins       █████████████░░░░░░░░░░░░   51.24 % 
+retos-programacion-2023  4 hrs 21 mins       ███████████░░░░░░░░░░░░░░   42.11 % 
+technical-interview-coach37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+cowork                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Windows                  7 hrs 43 mins       ███████████████░░░░░░░░░░   59.99 % 
-Mac                      5 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.01 % 
+Windows                  5 hrs 10 mins       █████████████░░░░░░░░░░░░   50.15 % 
+Mac                      5 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 53 mins (53.59%)
+⏱ AI Coding Time: 4 hrs 39 mins (45.16%)
 
-✍️ 954 lines written by AI, 482 lines written by hand (66.43% AI-written)
+✍️ 1 lines written by AI, 482 lines written by hand (0.21% AI-written)
 
-🔤 3,076,107 Input Tokens, 238,783 Output Tokens
+🔤 1,990,483 Input Tokens, 148,565 Output Tokens
 
-💵 $51.01 Estimated AI Cost This Week
+💵 $20.67 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 168 AI Prompts
+🧠 13 AI Sessions, 133 AI Prompts
 
-GPT                      954 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      1 lines             █████████████████████████   100.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 66.43% of written lines came from AI
-📝 Concise Prompter — average 331 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 37.77% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.21% of written lines came from AI
+📝 Concise Prompter — average 218 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 99.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -149,7 +148,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:18:21 UTC
+ Last Updated on 09/09/2026 21:03:35 UTC
 <!--END_SECTION:waka-->
 
 ---
