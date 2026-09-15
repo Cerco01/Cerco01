@@ -86,41 +86,22 @@ Sunday                   15 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   2 hrs 11 mins       █████████████████████████   99.35 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        ████████████████░░░░░░░░░   63.31 % 
-Opencode Cli             48 mins             █████████░░░░░░░░░░░░░░░░   36.69 % 
+Opencode Cli             13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-retos-programacion-2023  2 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (35.69%)
-
-✍️ 0 lines written by AI, 100 lines written by hand (0.0% AI-written)
-
-🔤 262,991 Input Tokens, 13,165 Output Tokens
-
-💵 $2.72 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 21 AI Prompts
-
-GPT                      1 lines             █████████████████████████   100.00 % 
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 120 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -139,7 +120,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 21:57:26 UTC
+ Last Updated on 15/09/2026 21:34:46 UTC
 <!--END_SECTION:waka-->
 
 ---
