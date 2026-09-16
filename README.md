@@ -89,7 +89,7 @@ Sunday                   15 commits          ██░░░░░░░░░�
 No Activity Tracked This Week
 
 🔥 Editors: 
-Opencode Cli             13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
@@ -120,7 +120,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:34:46 UTC
+ Last Updated on 16/09/2026 21:30:10 UTC
 <!--END_SECTION:waka-->
 
 ---
