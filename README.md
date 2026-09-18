@@ -41,9 +41,9 @@ Estoy abierto a oportunidades donde aplicar **Data Science e IA para generar imp
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -86,22 +86,40 @@ Sunday                   15 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 15 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████░░░░   85.47 % 
+Opencode Cli             2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AI Engineering from Scrat15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 15 mins (100.0%)
+
+✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 16,896 Input Tokens, 3,180 Output Tokens
+
+💵 $4.47 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 7 AI Prompts
+
+GPT                      1 lines             █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 43 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -120,7 +138,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 21:33:57 UTC
+ Last Updated on 18/09/2026 21:04:56 UTC
 <!--END_SECTION:waka-->
 
 ---
