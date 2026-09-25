@@ -86,40 +86,22 @@ Sunday                   15 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████░░░░   85.47 % 
-Opencode Cli             2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AI Engineering from Scrat15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (100.0%)
-
-✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 16,896 Input Tokens, 3,180 Output Tokens
-
-💵 $4.47 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 7 AI Prompts
-
-GPT                      1 lines             █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 43 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -138,7 +120,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:39:36 UTC
+ Last Updated on 25/09/2026 21:44:18 UTC
 <!--END_SECTION:waka-->
 
 ---
