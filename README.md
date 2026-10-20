@@ -41,15 +41,15 @@ Estoy abierto a oportunidades donde aplicar **Data Science e IA para generar imp
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 116.3 kB Used in GitHub's Storage 
+> 📦 116.4 kB Used in GitHub's Storage 
  > 
 > 🏆 124 Contributions in the Year 2026
  > 
@@ -62,21 +62,21 @@ Estoy abierto a oportunidades donde aplicar **Data Science e IA para generar imp
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-🌆 Daytime                77 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌃 Evening                104 commits         ███████████░░░░░░░░░░░░░░   45.02 % 
-🌙 Night                  48 commits          █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+🌆 Daytime                85 commits          ████████░░░░░░░░░░░░░░░░░   34.00 % 
+🌃 Evening                110 commits         ███████████░░░░░░░░░░░░░░   44.00 % 
+🌙 Night                  48 commits          █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Tuesday                  22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Wednesday                71 commits          ████████░░░░░░░░░░░░░░░░░   30.74 % 
-Thursday                 36 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Friday                   47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Saturday                 11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Sunday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Monday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Wednesday                71 commits          ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+Thursday                 36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Friday                   47 commits          █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Saturday                 11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Sunday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 ```
 
 
@@ -86,31 +86,54 @@ Sunday                   15 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 16 mins       ████████████████████░░░░░   80.72 % 
+JavaScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Image (png)              10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 47 mins       █████████████████████████   99.18 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Gentle-Ai                1 hr 42 mins        ███████████████░░░░░░░░░░   60.91 % 
+cat                      33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+engram-memories          31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+dame-un-resumen-matutino-1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 48 mins (99.56%)
+
+✍️ 196 lines written by AI, 2 lines written by hand (98.99% AI-written)
+
+🔤 515,231 Input Tokens, 66,029 Output Tokens
+
+💵 $4.40 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 39 AI Prompts
+
+GPT                      196 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.99% of written lines came from AI
+📚 Verbose Prompter — average 4,893 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 1.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         18 repos            ███████████████░░░░░░░░░░   60.00 % 
-Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Jupyter Notebook         18 repos            ███████████████░░░░░░░░░░   58.06 % 
+Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
@@ -120,7 +143,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 22:32:29 UTC
+ Last Updated on 20/10/2026 21:47:11 UTC
 <!--END_SECTION:waka-->
 
 ---
