@@ -45,7 +45,7 @@ Estoy abierto a oportunidades donde aplicar **Data Science e IA para generar imp
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -86,45 +86,46 @@ Sunday                   15 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 2 hrs 16 mins       ████████████████████░░░░░   80.72 % 
-JavaScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Image (png)              10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Markdown                 3 hrs 40 mins       ██████████████████░░░░░░░   70.99 % 
+Image (png)              37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 47 mins       █████████████████████████   99.18 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+VS Code                  5 hrs 6 mins        █████████████████████████   98.61 % 
+Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🐱‍💻 Projects: 
-Gentle-Ai                1 hr 42 mins        ███████████████░░░░░░░░░░   60.91 % 
-cat                      33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-engram-memories          31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-dame-un-resumen-matutino-1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+cat                      2 hrs 46 mins       █████████████░░░░░░░░░░░░   53.68 % 
+Gentle-Ai                1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.70 % 
+engram-memories          31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+dame-un-resumen-matutino-4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 Operating System: 
-Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 48 mins (99.56%)
+⏱ AI Coding Time: 5 hrs 9 mins (99.76%)
 
-✍️ 196 lines written by AI, 2 lines written by hand (98.99% AI-written)
+✍️ 531 lines written by AI, 2 lines written by hand (99.62% AI-written)
 
-🔤 515,231 Input Tokens, 66,029 Output Tokens
+🔤 1,476,550 Input Tokens, 104,441 Output Tokens
 
-💵 $4.40 Estimated AI Cost This Week
+💵 $8.35 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 39 AI Prompts
+🧠 9 AI Sessions, 81 AI Prompts
 
-GPT                      196 lines           █████████████████████████   100.00 % 
+GPT                      531 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.99% of written lines came from AI
-📚 Verbose Prompter — average 4,893 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 1.01% of changed lines were hand-edited
+🤖 AI-Driven — 99.62% of written lines came from AI
+📚 Verbose Prompter — average 6,526 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -143,7 +144,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 21:47:11 UTC
+ Last Updated on 21/10/2026 21:53:11 UTC
 <!--END_SECTION:waka-->
 
 ---
