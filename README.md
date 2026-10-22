@@ -62,21 +62,21 @@ Estoy abierto a oportunidades donde aplicar **Data Science e IA para generar imp
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-🌆 Daytime                85 commits          ████████░░░░░░░░░░░░░░░░░   34.00 % 
-🌃 Evening                110 commits         ███████████░░░░░░░░░░░░░░   44.00 % 
-🌙 Night                  48 commits          █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+🌞 Morning                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+🌆 Daytime                86 commits          ████████░░░░░░░░░░░░░░░░░   33.86 % 
+🌃 Evening                110 commits         ███████████░░░░░░░░░░░░░░   43.31 % 
+🌙 Night                  48 commits          █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Wednesday                71 commits          ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-Thursday                 36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Friday                   47 commits          █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Saturday                 11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Sunday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Monday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Tuesday                  28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Wednesday                71 commits          ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+Thursday                 39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Friday                   47 commits          █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Saturday                 11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 ```
 
 
@@ -86,45 +86,45 @@ Sunday                   15 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 3 hrs 40 mins       ██████████████████░░░░░░░   70.99 % 
-Image (png)              37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Markdown                 3 hrs 22 mins       ███████████████████░░░░░░   74.68 % 
+Image (png)              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 6 mins        █████████████████████████   98.61 % 
-Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+VS Code                  4 hrs 28 mins       █████████████████████████   98.69 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🐱‍💻 Projects: 
-cat                      2 hrs 46 mins       █████████████░░░░░░░░░░░░   53.68 % 
-Gentle-Ai                1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.70 % 
-engram-memories          31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-dame-un-resumen-matutino-4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+cat                      2 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.39 % 
+Gentle-Ai                1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.64 % 
+engram-memories          31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+dame-un-resumen-matutino-3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 💻 Operating System: 
-Windows                  5 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 9 mins (99.76%)
+⏱ AI Coding Time: 4 hrs 31 mins (99.73%)
 
-✍️ 531 lines written by AI, 2 lines written by hand (99.62% AI-written)
+✍️ 528 lines written by AI, 2 lines written by hand (99.62% AI-written)
 
-🔤 1,476,550 Input Tokens, 104,441 Output Tokens
+🔤 1,143,017 Input Tokens, 99,165 Output Tokens
 
-💵 $8.35 Estimated AI Cost This Week
+💵 $7.36 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 81 AI Prompts
+🧠 7 AI Sessions, 67 AI Prompts
 
-GPT                      531 lines           █████████████████████████   100.00 % 
+GPT                      528 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.62% of written lines came from AI
-📚 Verbose Prompter — average 6,526 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 6,589 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.38% of changed lines were hand-edited
 ```
 
@@ -144,7 +144,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:53:11 UTC
+ Last Updated on 22/10/2026 21:48:38 UTC
 <!--END_SECTION:waka-->
 
 ---
