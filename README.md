@@ -86,46 +86,45 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 3 hrs 22 mins       ███████████████████░░░░░░   74.68 % 
-Image (png)              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Markdown                 2 hrs 16 mins       ████████████████████░░░░░   79.96 % 
+JavaScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Image (png)              10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 28 mins       █████████████████████████   98.69 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+VS Code                  2 hrs 47 mins       █████████████████████████   98.28 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🐱‍💻 Projects: 
-cat                      2 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.39 % 
-Gentle-Ai                1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.64 % 
-engram-memories          31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-dame-un-resumen-matutino-3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Gentle-Ai                1 hr 42 mins        ███████████████░░░░░░░░░░   60.35 % 
+cat                      33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+engram-memories          31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+dame-un-resumen-matutino-3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
-Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 31 mins (99.73%)
+⏱ AI Coding Time: 2 hrs 49 mins (99.57%)
 
-✍️ 528 lines written by AI, 2 lines written by hand (99.62% AI-written)
+✍️ 196 lines written by AI, 2 lines written by hand (98.99% AI-written)
 
-🔤 1,143,017 Input Tokens, 99,165 Output Tokens
+🔤 579,901 Input Tokens, 68,414 Output Tokens
 
-💵 $7.36 Estimated AI Cost This Week
+💵 $4.72 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 67 AI Prompts
+🧠 4 AI Sessions, 41 AI Prompts
 
-GPT                      528 lines           █████████████████████████   100.00 % 
+GPT                      196 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.62% of written lines came from AI
-📚 Verbose Prompter — average 6,589 characters per prompt
+🤖 AI-Driven — 98.99% of written lines came from AI
+📚 Verbose Prompter — average 7,151 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.38% of changed lines were hand-edited
+🚀 High AI Trust — 1.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -144,7 +143,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 21:48:38 UTC
+ Last Updated on 23/10/2026 21:34:07 UTC
 <!--END_SECTION:waka-->
 
 ---
