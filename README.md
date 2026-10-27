@@ -86,45 +86,22 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 2 hrs 16 mins       ████████████████████░░░░░   80.72 % 
-JavaScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Image (png)              10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 47 mins       █████████████████████████   99.18 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Gentle-Ai                1 hr 42 mins        ███████████████░░░░░░░░░░   60.91 % 
-cat                      33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-engram-memories          31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-dame-un-resumen-matutino-1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 48 mins (99.56%)
-
-✍️ 196 lines written by AI, 2 lines written by hand (98.99% AI-written)
-
-🔤 515,231 Input Tokens, 66,029 Output Tokens
-
-💵 $4.40 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 39 AI Prompts
-
-GPT                      196 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.99% of written lines came from AI
-📚 Verbose Prompter — average 4,893 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 1.01% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -143,7 +120,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 22:49:16 UTC
+ Last Updated on 27/10/2026 22:28:32 UTC
 <!--END_SECTION:waka-->
 
 ---
