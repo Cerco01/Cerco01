@@ -41,15 +41,15 @@ Estoy abierto a oportunidades donde aplicar **Data Science e IA para generar imp
 ### 📈 Mi Actividad Reciente (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-235%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 116.4 kB Used in GitHub's Storage 
+> 📦 116.5 kB Used in GitHub's Storage 
  > 
 > 🏆 124 Contributions in the Year 2026
  > 
@@ -86,22 +86,42 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 42 mins        █████████████████████████   98.80 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             1 hr 12 mins        █████████████████░░░░░░░░   69.89 % 
+VS Code                  31 mins             ████████░░░░░░░░░░░░░░░░░   30.11 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+innovation-lab           1 hr 2 mins         ███████████████░░░░░░░░░░   59.90 % 
+Gentle-Ai                40 mins             ██████████░░░░░░░░░░░░░░░   38.89 % 
+Desktop                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 43 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 435,326 Input Tokens, 33,345 Output Tokens
+
+💵 $3.00 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 31 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 21,745 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -120,7 +140,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cerco01/Cerco01/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 22:54:31 UTC
+ Last Updated on 30/10/2026 22:32:40 UTC
 <!--END_SECTION:waka-->
 
 ---
